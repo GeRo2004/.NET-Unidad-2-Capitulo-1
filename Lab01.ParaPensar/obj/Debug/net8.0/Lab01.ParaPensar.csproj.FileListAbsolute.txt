@@ -1,0 +1,14 @@
+C:\Laboratorios net\Unidad02\Capitulo01\Lab01.ParaPensar\bin\Debug\net8.0\Lab01.ParaPensar.exe
+C:\Laboratorios net\Unidad02\Capitulo01\Lab01.ParaPensar\bin\Debug\net8.0\Lab01.ParaPensar.deps.json
+C:\Laboratorios net\Unidad02\Capitulo01\Lab01.ParaPensar\bin\Debug\net8.0\Lab01.ParaPensar.runtimeconfig.json
+C:\Laboratorios net\Unidad02\Capitulo01\Lab01.ParaPensar\bin\Debug\net8.0\Lab01.ParaPensar.dll
+C:\Laboratorios net\Unidad02\Capitulo01\Lab01.ParaPensar\bin\Debug\net8.0\Lab01.ParaPensar.pdb
+C:\Laboratorios net\Unidad02\Capitulo01\Lab01.ParaPensar\obj\Debug\net8.0\Lab01.ParaPensar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Laboratorios net\Unidad02\Capitulo01\Lab01.ParaPensar\obj\Debug\net8.0\Lab01.ParaPensar.AssemblyInfoInputs.cache
+C:\Laboratorios net\Unidad02\Capitulo01\Lab01.ParaPensar\obj\Debug\net8.0\Lab01.ParaPensar.AssemblyInfo.cs
+C:\Laboratorios net\Unidad02\Capitulo01\Lab01.ParaPensar\obj\Debug\net8.0\Lab01.ParaPensar.csproj.CoreCompileInputs.cache
+C:\Laboratorios net\Unidad02\Capitulo01\Lab01.ParaPensar\obj\Debug\net8.0\Lab01.ParaPensar.dll
+C:\Laboratorios net\Unidad02\Capitulo01\Lab01.ParaPensar\obj\Debug\net8.0\refint\Lab01.ParaPensar.dll
+C:\Laboratorios net\Unidad02\Capitulo01\Lab01.ParaPensar\obj\Debug\net8.0\Lab01.ParaPensar.pdb
+C:\Laboratorios net\Unidad02\Capitulo01\Lab01.ParaPensar\obj\Debug\net8.0\Lab01.ParaPensar.genruntimeconfig.cache
+C:\Laboratorios net\Unidad02\Capitulo01\Lab01.ParaPensar\obj\Debug\net8.0\ref\Lab01.ParaPensar.dll

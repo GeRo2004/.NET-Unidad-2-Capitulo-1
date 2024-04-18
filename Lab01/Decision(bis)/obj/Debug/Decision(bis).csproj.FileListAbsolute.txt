@@ -1,0 +1,7 @@
+C:\Laboratorios net\Unidad02\Capitulo01\Lab01\Decision(bis)\bin\Debug\Decision(bis).exe.config
+C:\Laboratorios net\Unidad02\Capitulo01\Lab01\Decision(bis)\bin\Debug\Decision(bis).exe
+C:\Laboratorios net\Unidad02\Capitulo01\Lab01\Decision(bis)\bin\Debug\Decision(bis).pdb
+C:\Laboratorios net\Unidad02\Capitulo01\Lab01\Decision(bis)\obj\Debug\Decision(bis).csproj.AssemblyReference.cache
+C:\Laboratorios net\Unidad02\Capitulo01\Lab01\Decision(bis)\obj\Debug\Decision(bis).csproj.CoreCompileInputs.cache
+C:\Laboratorios net\Unidad02\Capitulo01\Lab01\Decision(bis)\obj\Debug\Decision(bis).exe
+C:\Laboratorios net\Unidad02\Capitulo01\Lab01\Decision(bis)\obj\Debug\Decision(bis).pdb
